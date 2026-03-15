@@ -1,6 +1,6 @@
 # Laboratorium 1: Git, GitHub i przygotowanie środowiska Django
 
-**Celem laboratorium jest opanowanie systemu kontroli wersji Git, platformy GitHub (zdalne repozytoria, GitHub Issues, GitHub Actions), stworzenie środowiska programistycznego dla wybranej technologii i dokumentacja pracy za pomocą Markdown.**
+**Celem laboratorium jest opanowanie systemu kontroli wersji Git, platformy GitHub (zdalne repozytoria, GitHub Issues, GitHub Actions), stworzenie środowiska programistycznego dla wybranej technologii i dokumentacja uzyskanej pracy za pomocą Markdown.**
 
 Wymagania:
 * Realizacja wszystkich punktów (1-6) instrukcji.
